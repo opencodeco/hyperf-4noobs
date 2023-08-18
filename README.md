@@ -15,7 +15,7 @@
   
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="#roadmap"><strong>Explore a documentação »</strong></a>
     <br />
     <br />
     <a href="https://github.com/opencodeco/hyperf-4noobs/issues">Report Bug</a>
@@ -70,6 +70,7 @@ Todas contribuições são **extremamente apreciadas**.
 - [O que é o HyperF? #shorts](https://www.youtube.com/watch?v=gEoONCmIuZM)
 - [Hyperf - PHP Coroutine Framework baseado em Swoole](https://leocarmo.dev/hyperf-php-coroutine-framework-baseado-em-swoole)
 - [Guia completo do framework Hyperf](https://programadoresdepre.com.br/guia-completo-do-framework-hyperf-para-construcao-de-aplicativos-php-modernos/)
+- [Diferença entre  Programação assíncrona e paralela](https://youtu.be/zLfXPSeCkB8)
 
 ---
 
