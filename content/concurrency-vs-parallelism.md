@@ -17,7 +17,7 @@ function routina(): Generator
 {
     for ($i = 0; $i < 3; $i++)
     {
-        echo "Coroutina:$i\n";
+        echo "Corrotina:$i\n";
         yield;
     }
 }
@@ -36,16 +36,16 @@ for ($i = 0; $i < 3; $i++)
 **Output**
 
 ```
-Coroutina:0
+Corrotina:0
 Principal:0
-Coroutina:1
+Corrotina:1
 Principal:1
-Coroutina:2
+Corrotina:2
 Principal:2
 ```
 
 
-**Obs**: Caso queira entender mais como funciona a questão de corotina dentro do PHP, aconselho a estudar sobre [*Generator syntax*](https://www.php.net/manual/pt_BR/language.generators.syntax.php)
+**Obs**: Caso queira entender mais como funciona a questão de corrotina dentro do PHP, aconselho a estudar sobre [*Generator syntax*](https://www.php.net/manual/pt_BR/language.generators.syntax.php)
 
 ## Paralelismo
 
